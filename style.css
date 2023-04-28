@@ -1,0 +1,677 @@
+.nav ul{
+    list-style: none;
+    display: flex;
+    color: white;
+}
+#button{
+    background-color: green;
+    color: #0A0C0D;
+}
+#border{
+    width: 1300px;
+    position: relative;
+    top: 40px;
+}
+.feature{
+    color: white;
+}
+#image{
+    position: relative;
+    left: 55%;
+    top: 200px;
+}
+.our{
+    color: aliceblue;
+}
+#table1{
+    width: 100%;
+}
+#phone{
+    float: right;
+    position: relative;
+    right: 200px;
+    bottom: 250px;
+}
+.clarity{
+    color: white;
+    position: relative;
+    left: 900px;
+    bottom: 250px;
+}
+
+#most{
+    color: aliceblue;
+    float: right;
+    position: relative;
+    top: 100px;
+    right: 200px;
+}
+#dunia{
+    position: relative;
+    float: left;
+    size: 500px;
+
+}
+#square1{
+    position: relative;
+    bottom: 350px;
+    left: 30%;
+}
+#square2{
+    position: relative;
+    bottom: 300px;
+    left: 40%;
+}
+#trusted{
+    color: aliceblue;
+    font-size: 40px
+}
+#crpt{
+    color: aliceblue;
+    font-size: 20px;
+}
+.all{
+    background-color: #0A0C0D;
+}
+#save{
+    color: aliceblue;
+    font-size: 20px;
+}
+.smart{
+    color: aliceblue;
+}
+#Trade{
+    color: green;
+    border: solid 1px greenyellow;
+
+}
+#Explore{
+    color: green;
+    border: solid 1px greenyellow;
+
+}
+#convenience{
+    float: right;
+    position: relative;
+    bottom: 350px;
+    font-size: 30px;
+}
+#Home{
+    position: relative;
+    left: 20%;
+
+}
+#Market{
+    position: relative;
+    left: 30%;
+    
+}Feature{
+    position: relative;
+    left: 40%;
+    color: aliceblue;
+    
+}#Exchange{
+    position: relative;
+    left: 50%;
+    
+}
+#wallet{
+    position: relative;
+    left: 60%;
+    
+}
+@media (max-width: 480px) {
+    .nav ul{
+        font-size: 4px;
+
+    }
+    
+       
+
+      
+    }
+    @media (min-width: 481px) and (max-width:768px) {
+        .nav ul{
+            font-size: 2px;
+    
+        }
+        
+           
+    
+          
+        }
+        
+                
+            
+               
+        
+              
+            
+            @media (min-width: 769px) and (max-width:1024px) {
+                .nav ul{
+                    font-size: 6px;
+            
+                }
+                
+                   
+            
+                  
+                }
+                @media (min-width: 1025px) and (max-width:1200px) {
+                    .nav ul{
+                        font-size: 8px;
+                
+                    }
+                    
+                       
+                
+                      
+                    }
+                    @media (max-width: 480px) {
+                        #convenience{
+                            font-size: 4px;
+                    
+                        }
+                        
+                           
+                    
+                          
+                        }
+                        @media (min-width: 481px) and (max-width:768px) {
+                            #convenience{
+                                font-size: 2px;
+                        
+                            }
+                            
+                               
+                        
+                              
+                            }
+                            
+                                    
+                                
+                                   
+                            
+                                  
+                                
+                                @media (min-width: 769px) and (max-width:1024px) {
+                                    #convenience{
+                                        font-size: 6px;
+                                
+                                    }
+                                    
+                                       
+                                
+                                      
+                                    }
+                                    @media (min-width: 1025px) and (max-width:1200px) {
+                                        #convenience{
+                                            font-size: 8px;
+                                    
+                                        }
+                                        
+                                           
+                                    
+                                          
+                                        }
+                    @media (max-width: 480px) {
+                        #border{
+                        width: 100%;
+                    
+                        }
+                        
+                           
+                    
+                          
+                        }
+                        @media (min-width: 481px) and (max-width:768px) {
+                            #border{
+                                width: 100%;
+                        
+                            }
+                            
+                               
+                        
+                              
+                            }
+                            @media (min-width: 481px) and (max-width:768px) {
+                                #border{
+                                    width: 100%;
+                            
+                                }
+                                
+                                   
+                            
+                                  
+                                }
+                                @media (min-width: 769px) and (max-width:1024px) {
+                                    #border{
+                                        width: 100%;
+                                        
+                                
+                                    }
+                                    
+                                       
+                                
+                                      
+                                    }
+                                    @media (min-width: 1025px) and (max-width:1200px) {
+                                        #border{
+                                            width: 100%;
+                                            
+                                    
+                                        }
+                                        
+                                           
+                                    
+                                          
+                                        }
+                                        @media (min-width: 481px) and (max-width:768px) {
+        .nav ul{
+            font-size: 2px;
+    
+        }
+        
+           
+    
+          
+        }
+        @media (min-width: 481px) and (max-width:768px) {
+            .nav ul{
+                font-size: 4px;
+        
+            }
+            
+               
+        
+              
+            }
+            @media (min-width: 769px) and (max-width:1024px) {
+                .nav ul{
+                    font-size: 6px;
+            
+                }
+                
+                   
+            
+                  
+                }
+                @media (min-width: 1025px) and (max-width:1200px) {
+                    .nav ul{
+                        font-size: 8px;
+                
+                    }
+                    
+                       
+                
+                      
+                    }
+                    @media (max-width: 480px) {
+                        #border{
+                        width: 100%;
+                    
+                        }
+                        
+                           
+                    
+                          
+                        }
+                        @media (min-width: 481px) and (max-width:768px) {
+                            .table1{
+                                width: 100%;
+                        
+                            }
+                            
+                               
+                        
+                              
+                            }
+                            @media (min-width: 481px) and (max-width:768px) {
+                                .table1{
+                                    width: 100%;
+                            
+                                }
+                                
+                                   
+                            
+                                  
+                                }
+                                @media (min-width: 769px) and (max-width:1024px) {
+                                    .table1{
+                                        width: 100%;
+                                        
+                                
+                                    }
+                                    
+                                       
+                                
+                                      
+                                    }
+                                    @media (min-width: 1025px) and (max-width:1200px) {
+                                        .table1{
+                                            width: 100%;
+                                            
+                                    
+                                        }
+                                        
+                                           
+                                    
+                                          
+                                        }
+                                        @media (min-width: 481px) and (max-width:768px) {
+        .nav ul{
+            font-size: 2px;
+    
+        }
+        
+           
+    
+          
+        }
+        @media (min-width: 481px) and (max-width:768px) {
+            .nav ul{
+                font-size: 4px;
+        
+            }
+            
+               
+        
+              
+            }
+            @media (min-width: 769px) and (max-width:1024px) {
+                .nav ul{
+                    font-size: 6px;
+            
+                }
+                
+                   
+            
+                  
+                }
+                @media (min-width: 1025px) and (max-width:1200px) {
+                    .nav ul{
+                        font-size: 8px;
+                
+                    }
+                    
+                       
+                
+                      
+                    }
+                    @media (max-width: 480px) {
+                        #border{
+                        width: 100%;
+                    
+                        }
+                        
+                           
+                    
+                          
+                        }
+                        @media (min-width: 481px) and (max-width:768px) {
+                            #border{
+                                width: 100%;
+                        
+                            }
+                            
+                               
+                        
+                              
+                            }
+                            @media (min-width: 481px) and (max-width:768px) {
+                                #border{
+                                    width: 100%;
+                            
+                                }
+                                
+                                   
+                            
+                                  
+                                }
+                                @media (min-width: 769px) and (max-width:1024px) {
+                                    #border{
+                                        width: 100%;
+                                        
+                                
+                                    }
+                                    
+                                       
+                                
+                                      
+                                    }
+                                    @media (min-width: 1025px) and (max-width:1200px) {
+                                        #border{
+                                            width: 100%;
+                                            
+                                    
+                                        }
+                                        
+                                           
+                                    
+                                          
+                                        }
+                    /* .content{
+                         background-image: url(images/crypto1\ \(1\).jpg);
+                         background-repeat: no-repeat;
+                         height: 100%;
+                         width: 100vh;
+                
+                        background-size: cover;
+                        */
+          .table{
+            border: solid 1px;
+            
+
+          }               
+           
+          .easy{
+            border: solid 1px;
+            width: 200px;
+            border-radius: 10px;
+            color: white;
+            position: relative;
+            left: 30px;
+
+
+        } 
+        @media  (max-width:480px) {
+            .easy{
+                font-size: 10px;
+                width: 100px;
+                
+        
+            }
+            
+               
+        
+              
+            } 
+            @media (min-width: 481px) and (max-width:768px) {
+                .easy{
+                    font-size: 15px;
+                    width: 150px;
+                    
+            
+                }
+                
+                   
+            
+                  
+                }  
+                @media (min-width: 769px) and (max-width:992px) {
+                    .easy{
+                        font-size: 20px;
+                        width: 200px;
+                        
+
+
+                
+                    }
+                    
+                       
+                
+                      
+                    }
+                    @media (min-width: 1025px) and (max-width:1200px) {
+                        .easy{
+                            font-size: 30px;
+                            width: 250px;
+                            
+                    
+                        }
+                        
+                           
+                    
+                          
+                        }
+                        .security{
+                            border: solid 1px;
+                            width: 200px;
+                            border-radius: 10px;
+                            position: relative;
+                            top: 50px;
+                            left: 20px;
+                            color: aliceblue;
+                
+                
+                        } 
+                        @media  (max-width:480px) {
+                            .security
+                            {
+                                font-size: 10px;
+                                width: 100px;
+                                position: relative;
+                                left: 100px;
+                                
+                                
+                                
+                        
+                            }
+                            
+                               
+                        
+                              
+                            } 
+                            body{
+                                background-color: #0A0C0D;
+                            }
+                            @media (min-width: 481px) and (max-width:768px) {
+                                .security{
+                                    font-size: 15px;
+                                    width: 150px;
+                                    
+                            
+                                }
+                                
+                                   
+                            
+                                  
+                                }  
+                                @media (min-width: 769px) and (max-width:992px) {
+                                    .security{
+                                        font-size: 20px;
+                                        width: 200px;
+                
+                
+                                
+                                    }
+                                    
+                                       
+                                
+                                      
+                                    }
+                                    @media (min-width: 1025px) and (max-width:1200px) {
+                                        .security{
+                                            font-size: 30px;
+                                            width: 250px;
+                                            
+                                    
+                                        }
+                                        
+                                           
+                                    
+                                          
+                                        }
+                                        .best{
+                                            border: solid 1px;
+                                            width: 200px;
+                                            position: relative;
+                                            left: 300px;
+                                            bottom: 200px;
+                                            border-radius: 10px;
+                                            color: white;
+                                
+                                
+                                        } 
+                                        @media  (max-width:480px) {
+                                            .best
+                                            {
+                                                font-size: 10px;
+                                                width: 100px;
+                                                position: relative;
+                                                left: 100px;
+                                                
+                                        
+                                            }
+                                            
+                                               
+                                        
+                                              
+                                            } 
+                                            @media (min-width: 481px) and (max-width:768px) {
+                                                .best{
+                                                    font-size: 15px;
+                                                    width: 150px;
+                                                    
+                                            
+                                                }
+                                                
+                                                   
+                                            
+                                                  
+                                                }  
+                                                @media (min-width: 769px) and (max-width:992px) {
+                                                    .best{
+                                                        font-size: 20px;
+                                                        width: 200px;
+                                
+                                
+                                                
+                                                    }
+                                                    
+                                                       
+                                                
+                                                      
+                                                    }
+                                                    @media (min-width: 1025px) and (max-width:1200px) {
+                                                        .best{
+                                                            font-size: 30px;
+                                                            width: 250px;
+                                                            
+                                                    
+                                                        }
+                                                        
+                                                           
+                                                    
+                                                          
+                                                        }
+                                                        
+                                                    
+                
+                                    
+                                     
+                                   
+                                
+                            
+                        
+                    
+                                        
+                                    
+
+                    
+                     
+                   
+                
+            
+        
+    
