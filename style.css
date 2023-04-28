@@ -450,6 +450,53 @@
                                     
                                           
                                         }
+                                        @media (max-width: 480px) {
+                                            .security{
+                                                
+                                        
+                                            }
+                                            
+                                               
+                                        
+                                              
+                                            }
+                                            @media (min-width: 481px) and (max-width:768px) {
+                                                .security{
+                                                    
+                                            
+                                                }
+                                                
+                                                   
+                                            
+                                                  
+                                                }
+                                                
+                                                        
+                                                    
+                                                       
+                                                
+                                                      
+                                                    
+                                                    @media (min-width: 769px) and (max-width:1024px) {
+                                                        .security{
+                                                            
+                                                    
+                                                        }
+                                                        
+                                                           
+                                                    
+                                                          
+                                                        }
+                                                        @media (min-width: 1025px) and (max-width:1200px) {
+                                                            .security{
+                                                                font-size: 8px;
+                                                        
+                                                            }
+                                                            
+                                                               
+                                                        
+                                                              
+                                                            }
                     /* .content{
                          background-image: url(images/crypto1\ \(1\).jpg);
                          background-repeat: no-repeat;
@@ -474,10 +521,17 @@
 
 
         } 
+        .ready{
+            color: white;
+            border: solid 1px grey;
+            width: 200px;
+            height: 100px;
+        }
         @media  (max-width:480px) {
             .easy{
-                font-size: 10px;
-                width: 100px;
+                font-size: 6px;
+                width: 70px;
+                
                 
         
             }
@@ -488,8 +542,8 @@
             } 
             @media (min-width: 481px) and (max-width:768px) {
                 .easy{
-                    font-size: 15px;
-                    width: 150px;
+                    font-size: 8px;
+                    
                     
             
                 }
@@ -500,8 +554,8 @@
                 }  
                 @media (min-width: 769px) and (max-width:992px) {
                     .easy{
-                        font-size: 20px;
-                        width: 200px;
+                        font-size: 8px;
+                        
                         
 
 
@@ -514,8 +568,9 @@
                     }
                     @media (min-width: 1025px) and (max-width:1200px) {
                         .easy{
-                            font-size: 30px;
-                            width: 250px;
+                            font-size: 12px;
+                            
+                        
                             
                     
                         }
@@ -538,11 +593,8 @@
                         @media  (max-width:480px) {
                             .security
                             {
-                                font-size: 10px;
-                                width: 100px;
-                                position: relative;
-                                left: 100px;
-                                
+                                font-size:6px ;
+                                width: 70px;
                                 
                                 
                         
@@ -557,8 +609,8 @@
                             }
                             @media (min-width: 481px) and (max-width:768px) {
                                 .security{
-                                    font-size: 15px;
-                                    width: 150px;
+                                    font-size: 8px;
+                                    
                                     
                             
                                 }
@@ -569,8 +621,8 @@
                                 }  
                                 @media (min-width: 769px) and (max-width:992px) {
                                     .security{
-                                        font-size: 20px;
-                                        width: 200px;
+                                        font-size: 8px;
+                                        
                 
                 
                                 
@@ -582,8 +634,8 @@
                                     }
                                     @media (min-width: 1025px) and (max-width:1200px) {
                                         .security{
-                                            font-size: 30px;
-                                            width: 250px;
+                                            font-size: 12px;
+                                            
                                             
                                     
                                         }
@@ -606,10 +658,9 @@
                                         @media  (max-width:480px) {
                                             .best
                                             {
-                                                font-size: 10px;
-                                                width: 100px;
-                                                position: relative;
-                                                left: 100px;
+                                                font-size: 6px;
+                                                
+                                        
                                                 
                                         
                                             }
@@ -620,8 +671,8 @@
                                             } 
                                             @media (min-width: 481px) and (max-width:768px) {
                                                 .best{
-                                                    font-size: 15px;
-                                                    width: 150px;
+                                                    font-size: 8px;
+                                                  
                                                     
                                             
                                                 }
@@ -632,8 +683,10 @@
                                                 }  
                                                 @media (min-width: 769px) and (max-width:992px) {
                                                     .best{
-                                                        font-size: 20px;
-                                                        width: 200px;
+                                                        font-size: 8px;
+                                                        position: relative;
+                                                        right: 30px;
+                                                        
                                 
                                 
                                                 
@@ -645,9 +698,8 @@
                                                     }
                                                     @media (min-width: 1025px) and (max-width:1200px) {
                                                         .best{
-                                                            font-size: 30px;
-                                                            width: 250px;
-                                                            
+                                                            font-size: 12px;
+                                                           
                                                     
                                                         }
                                                         
@@ -655,6 +707,417 @@
                                                     
                                                           
                                                         }
+                                                        @media  (max-width:480px) {
+                                                            .feature{
+                                                                font-size: 5px;
+                                                            }
+                                                            
+                                                        
+                                                            
+                                                            
+                                                               
+                                                        
+                                                              
+                                                            } 
+                                                            @media (min-width: 481px) and (max-width:768px) {
+                                                                .feature{
+                                                                    font-size: 5px;
+                                                                }
+                                                                
+                                                                   
+                                                            
+                                                                  
+                                                                }  
+                                                                @media (min-width: 769px) and (max-width:992px) {
+                                                                    .feature{
+                                                                        font-size: 8px;
+                                                                        
+                                                                
+                                                                    }
+                                                                    
+                                                                       
+                                                                
+                                                                      
+                                                                    }
+                                                                    @media (min-width: 1025px) and (max-width:1200px) {
+                                                                        .feature{
+                                                                            font-size: 8px;
+                                                                    
+                                                                        }
+                                                                        
+                                                                           
+                                                                    
+                                                                          
+                                                                        }
+                                                                        @media  (max-width:480px) {
+                                                                            .best
+                                                                            {
+                                                                                font-size: 6px;
+                                                                                
+                                                                        
+                                                                                
+                                                                        
+                                                                            }
+                                                                            
+                                                                               
+                                                                        
+                                                                              
+                                                                            } 
+                                                                            @media (min-width: 481px) and (max-width:768px) {
+                                                                                .best{
+                                                                                    font-size: 8px;
+                                                                                  
+                                                                                    
+                                                                            
+                                                                                }
+                                                                                
+                                                                                   
+                                                                            
+                                                                                  
+                                                                                }  
+                                                                                @media (min-width: 769px) and (max-width:992px) {
+                                                                                    .best{
+                                                                                        font-size: 8px;
+                                                                                        position: relative;
+                                                                                        right: 30px;
+                                                                                        
+                                                                
+                                                                
+                                                                                
+                                                                                    }
+                                                                                    
+                                                                                       
+                                                                                
+                                                                                      
+                                                                                    }
+                                                                                    @media (min-width: 1025px) and (max-width:1200px) {
+                                                                                        .best{
+                                                                                            font-size: 12px;
+                                                                                           
+                                                                                    
+                                                                                        }
+                                                                                        
+                                                                                           
+                                                                                    
+                                                                                          
+                                                                                        }
+                                                                                        @media  (max-width:480px) {
+                                                                                            .smart{
+                                                                                                font-size: 5px;
+                                                                                            }
+                                                                                            
+                                                                                        
+                                                                                            
+                                                                                            
+                                                                                               
+                                                                                        
+                                                                                              
+                                                                                            } 
+                                                                                            @media (min-width: 481px) and (max-width:768px) {
+                                                                                                .smart{
+                                                                                                    font-size: 5px;
+                                                                                                }
+                                                                                                
+                                                                                                   
+                                                                                            
+                                                                                                  
+                                                                                                }  
+                                                                                                @media (min-width: 769px) and (max-width:992px) {
+                                                                                                    .smart{
+                                                                                                        font-size: 8px;
+                                                                                                        
+                                                                                                
+                                                                                                    }
+                                                                                                    
+                                                                                                       
+                                                                                                
+                                                                                                      
+                                                                                                    }
+                                                                                                    @media (min-width: 1025px) and (max-width:1200px) {
+                                                                                                        .smart{
+                                                                                                            font-size: 8px;
+                                                                                                    
+                                                                                                        }
+                                                                                                        
+                                                                                                           
+                                                                                                    
+                                                                                                          
+                                                                                                        }
+                                                                                                        @media  (max-width:480px) {
+                                                                                                            .best
+                                                                                                            {
+                                                                                                                font-size: 6px;
+                                                                                                                width: 70px;
+                                                                                                                
+                                                                                                        
+                                                                                                                
+                                                                                                        
+                                                                                                            }
+                                                                                                            
+                                                                                                               
+                                                                                                        
+                                                                                                              
+                                                                                                            } 
+                                                                                                            @media (min-width: 481px) and (max-width:768px) {
+                                                                                                                .best{
+                                                                                                                    font-size: 8px;
+                                                                                                                  
+                                                                                                                    
+                                                                                                            
+                                                                                                                }
+                                                                                                                
+                                                                                                                   
+                                                                                                            
+                                                                                                                  
+                                                                                                                }  
+                                                                                                                @media (min-width: 769px) and (max-width:992px) {
+                                                                                                                    .best{
+                                                                                                                        font-size: 8px;
+                                                                                                                        position: relative;
+                                                                                                                        right: 30px;
+                                                                                                                        
+                                                                                                
+                                                                                                
+                                                                                                                
+                                                                                                                    }
+                                                                                                                    
+                                                                                                                       
+                                                                                                                
+                                                                                                                      
+                                                                                                                    }
+                                                                                                                    @media (min-width: 1025px) and (max-width:1200px) {
+                                                                                                                        .best{
+                                                                                                                            font-size: 12px;
+                                                                                                                           
+                                                                                                                    
+                                                                                                                        }
+                                                                                                                        
+                                                                                                                           
+                                                                                                                    
+                                                                                                                          
+                                                                                                                        }
+                                                                                                                        @media  (max-width:480px) {
+                                                                                                                            .clarity{
+                                                                                                                                font-size: 5px;
+                                                                                                                            }
+                                                                                                                            
+                                                                                                                        
+                                                                                                                            
+                                                                                                                            
+                                                                                                                               
+                                                                                                                        
+                                                                                                                              
+                                                                                                                            } 
+                                                                                                                            @media (min-width: 481px) and (max-width:768px) {
+                                                                                                                                .clarity{
+                                                                                                                                    font-size: 5px;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                   
+                                                                                                                            
+                                                                                                                                  
+                                                                                                                                }  
+                                                                                                                                @media (min-width: 769px) and (max-width:1024px) {
+                                                                                                                                    .clarity{
+                                                                                                                                        font-size: 8px;
+                                                                                                                                        
+                                                                                                                                
+                                                                                                                                    }
+                                                                                                                                    
+                                                                                                                                } 
+                                                                                                                                @media (min-width: 1025px) and (max-width:1200px) {
+                                                                                                                                    .clarity{
+                                                                                                                                        font-size: 12px;
+                                                                                                                                       
+                                                                                                                                
+                                                                                                                                    }
+                                                                                                                                    
+                                                                                                                                       
+                                                                                                                                
+                                                                                                                                      
+                                                                                                                                    }  
+                                                                                                                                    @media  (max-width:480px) {
+                                                                                                                                        #square1{
+                                                                                                                                            font-size: 5px;
+                                                                                                                                            width: 50px;
+                                                                                                                                            position: relative;
+                                                                                                                                            left: 300px;
+                                                                                                                                            bottom: 250px;
+                                                                                                                                        }
+                                                                                                                                        
+                                                                                                                                    
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                           
+                                                                                                                                    
+                                                                                                                                          
+                                                                                                                                        } 
+                                                                                                                                        @media (min-width: 481px) and (max-width:768px) {
+                                                                                                                                            #square1{
+                                                                                                                                                font-size: 5px;
+                                                                                                                                                width: 100px;
+                                                                                                                                                
+                                                                                                                                            }
+                                                                                                                                            
+                                                                                                                                               
+                                                                                                                                        
+                                                                                                                                              
+                                                                                                                                            }  
+                                                                                                                                            @media (min-width: 769px) and (max-width:1024px) {
+                                                                                                                                                #square1{
+                                                                                                                                                    font-size: 8px;
+                                                                                                                                                    width: 200px;
+                                                                                                                                                    
+                                                                                                                                            
+                                                                                                                                                }
+                                                                                                                                            }
+                                                                                                                                            @media  (max-width:480px) {
+                                                                                                                                                #square2{
+                                                                                                                                                    font-size: 5px;
+                                                                                                                                                    width: 50px;
+                                                                                                                                                    position: relative;
+                                                                                                                                                    left: 200px;
+                                                                                                                                                }
+                                                                                                                                                
+                                                                                                                                            
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                                   
+                                                                                                                                            
+                                                                                                                                                  
+                                                                                                                                                } 
+                                                                                                                                                @media (min-width: 481px) and (max-width:768px) {
+                                                                                                                                                    #square2{
+                                                                                                                                                        font-size: 5px;
+                                                                                                                                                        width: 100px;
+                                                                                                                                                    }
+                                                                                                                                                    
+                                                                                                                                                       
+                                                                                                                                                
+                                                                                                                                                      
+                                                                                                                                                    }  
+                                                                                                                                                    @media (min-width: 769px) and (max-width:1024px) {
+                                                                                                                                                        #square2{
+                                                                                                                                                            font-size: 8px;
+                                                                                                                                                            width: 200px;
+                                                                                                                                                            
+                                                                                                                                                    
+                                                                                                                                                        }
+                                                                                                                                                    }
+                                                                                                                                                    @media  (max-width:480px) {
+                                                                                                                                                        .clarity{
+                                                                                                                                                            font-size: 5px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                    
+                                                                                                                                                        
+                                                                                                                                                        
+                                                                                                                                                           
+                                                                                                                                                    
+                                                                                                                                                          
+                                                                                                                                                        } 
+                                                                                                                                                        @media (min-width: 481px) and (max-width:768px) {
+                                                                                                                                                            .clarity{
+                                                                                                                                                                font-size: 5px;
+                                                                                                                                                            }
+                                                                                                                                                            
+                                                                                                                                                               
+                                                                                                                                                        
+                                                                                                                                                              
+                                                                                                                                                            }  
+                                                                                                                                                            @media (min-width: 769px) and (max-width:1024px) {
+                                                                                                                                                                .clarity{
+                                                                                                                                                                    font-size: 8px;
+                                                                                                                                                                    
+                                                                                                                                                            
+                                                                                                                                                                }
+                                                                                                                                                                
+                                                                                                                                                            } 
+                                                                                                                                                            @media (min-width: 1025px) and (max-width:1200px) {
+                                                                                                                                                                .clarity{
+                                                                                                                                                                    font-size: 12px;
+                                                                                                                                                                   
+                                                                                                                                                            
+                                                                                                                                                                }
+                                                                                                                                                                
+                                                                                                                                                                   
+                                                                                                                                                            
+                                                                                                                                                                  
+                                                                                                                                                                }  
+                                                                                                                                                                @media  (max-width:480px) {
+                                                                                                                                                                    #square1{
+                                                                                                                                                                        font-size: 5px;
+                                                                                                                                                                        width: 50px;
+                                                                                                                                                                        position: relative;
+                                                                                                                                                                        left: 300px;
+                                                                                                                                                                        bottom: 250px;
+                                                                                                                                                                    }
+                                                                                                                                                                    
+                                                                                                                                                                
+                                                                                                                                                                    
+                                                                                                                                                                    
+                                                                                                                                                                       
+                                                                                                                                                                
+                                                                                                                                                                      
+                                                                                                                                                                    } 
+                                                                                                                                                                    @media (min-width: 481px) and (max-width:768px) {
+                                                                                                                                                                        #square1{
+                                                                                                                                                                            font-size: 5px;
+                                                                                                                                                                            width: 100px;
+                                                                                                                                                                            
+                                                                                                                                                                        }
+                                                                                                                                                                        
+                                                                                                                                                                           
+                                                                                                                                                                    
+                                                                                                                                                                          
+                                                                                                                                                                        }  
+                                                                                                                                                                        @media (min-width: 769px) and (max-width:1024px) {
+                                                                                                                                                                            #square1{
+                                                                                                                                                                                font-size: 8px;
+                                                                                                                                                                                width: 200px;
+                                                                                                                                                                                
+                                                                                                                                                                        
+                                                                                                                                                                            }
+                                                                                                                                                                        }
+                                                                                                                                                                        @media  (max-width:480px) {
+                                                                                                                                                                            #dunia{
+                                                                                                                                                                                font-size: 5px;
+                                                                                                                                                                                width: 50px;
+                                                                                                                                                                                position: relative;
+                                                                                                                                                                                left: 200px;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                        
+                                                                                                                                                                            
+                                                                                                                                                                            
+                                                                                                                                                                               
+                                                                                                                                                                        
+                                                                                                                                                                              
+                                                                                                                                                                            } 
+                                                                                                                                                                            @media (min-width: 481px) and (max-width:768px) {
+                                                                                                                                                                                #dunia{
+                                                                                                                                                                                    font-size: 100px;
+                                                                                                                                                                                    width: 40%;
+                                                                                                                                                                                    
+                                                                                                                                                                                }
+                                                                                                                                                                            }
+                                                                                                                                                                            @media (min-width: 769px) and (max-width:1024px) {
+                                                                                                                                                                                #dunia{
+                                                                                                                                                                                    font-size: 8px;
+                                                                                                                                                                                    
+                                                                                                                                                                                    
+                                                                                                                                                                            
+                                                                                                                                                                                }
+                                                                                                                                                                            }
+                                                                                                                                                                                
+                                                                                                                                                                                   
+                                                                                                                                                                            
+                                                                                                                                                                                  
+                                                                           
+                                                         
+                                                                      
+                                                                                       
+                                                                                        
                                                         
                                                     
                 
